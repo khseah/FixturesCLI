@@ -1,5 +1,5 @@
 # Fixtures CLI
-A Command-Line Interface program that displays football fixtures of a specified football team. The program obtain the fixtures through scraping the skysports webpage. MongoDB
+A Command-Line Interface program that displays football fixtures of a specified football team in SGT. The program obtain the fixtures through scraping the skysports webpage. MongoDB
 was used to store the list of favourite football teams, along with the user's username and hashed password.
 
 ## Commands
