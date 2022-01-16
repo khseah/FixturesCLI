@@ -8,7 +8,7 @@ was used to store the list of favourite football teams, along with the user's us
 teams, instead of running **fixtures** for each team.
 * **./fixturescli.py addfav** to add additional football teams to the favourite list. If a favourite list has not been initialised, this command will not work.
 * **./fixturescli.py deletefav** to delete football teams from the favourite list. If a favourite list has not been initialised, this command will not work.
-* **./fixturescli.py listfav** to list the current football teaams in the favourite list. If a favourite list has not been initialised, this command will not work.
+* **./fixturescli.py listfav** to list the current football teams in the favourite list. If a favourite list has not been initialised, this command will not work.
 * **./fixturescli.py favfixtures** to display the fixtures for all of the football teams in the favourite list.
 
 ## Technologies
