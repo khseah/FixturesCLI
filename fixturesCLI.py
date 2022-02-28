@@ -2,7 +2,6 @@ import typer
 import requests
 import pytz
 import os
-import sys
 import certifi
 import hashlib
 from pymongo import MongoClient
